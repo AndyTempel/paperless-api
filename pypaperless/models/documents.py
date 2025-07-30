@@ -173,7 +173,7 @@ class Document(
     title: str | None = None
     content: str | None = None
     tags: list[int] | None = None
-    created: datetime.date | None = None
+    created: datetime.datetime | None = None
     modified: datetime.datetime | None = None
     added: datetime.datetime | None = None
     deleted_at: datetime.datetime | None = None
