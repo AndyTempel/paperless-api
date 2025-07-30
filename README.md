@@ -1,3 +1,5 @@
+* This fork fixes some api response parsing issues
+
 # PyPaperless
 
 [![GitHub Release][release-badge]][release-url]
